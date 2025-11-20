@@ -7,3 +7,4 @@
 - **Importação de dados** no **SQL Server**;
 - **Consulta de dados** no banco de dados usando **SQL**;
 - **Criação de dashboards** para visualização de informações.
+![Dashboard](https://github.com/Jhon-Mota/Unicorn_Companies/blob/main/image.png)
